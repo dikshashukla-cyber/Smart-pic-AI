@@ -1,0 +1,36 @@
+--- PAGE 1 ---
+SmartPick AI  Companion Document v1.0
+Page 1
+ SMARTPICK AI
+ Test Plan
+ Functional, data-quality, ranking, and user-interface verification
+Prepared for: Pratyush Mishra
+Version 1.0  15 October 2026
+Status: Working companion document
+
+
+--- PAGE 2 ---
+SmartPick AI  Companion Document v1.0
+Page 2
+1. Test objectives
+    Verify that data validation, budget filtering, preference weighting, ranking, explanations, and error states work as specified.
+ 
+2. Test cases
+    TC-01 Valid dataset: required columns are present and valid records load successfully.
+    TC-02 Missing required column: app reports the exact missing column rather than crashing.
+    TC-03 Budget filtering: every returned phone is within the user’s selected budget.
+    TC-04 No eligible phones: app shows a no-results message.
+    TC-05 Weights: negative weights and all-zero weights are rejected.
+    TC-06 Ranking: returned results are ordered by descending score with a deterministic tie-break.
+    TC-07 Missing optional field: dependent filter is hidden or disabled; values are not fabricated.
+    TC-08 Empty dataset: app shows a controlled message.
+    TC-09 Recommendation explanation: every claim maps to an available field.
+    TC-10 Reproducibility: same input and dataset return the same ranked output.
+    TC-11 Evaluation: Precision@K/Recall@K/NDCG@K are computed only with relevant labels.
+    TC-12 UI smoke test: app launches and a valid profile produces visible results.
+ 
+3. Exit criteria
+    All must-have test cases pass or have documented limitations.
+    No displayed result violates hard budget constraints.
+    Known issues are listed in README and presentation.
+ 

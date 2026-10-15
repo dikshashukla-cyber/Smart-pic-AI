@@ -1,0 +1,36 @@
+# Git and CI/CD
+.git
+.github
+.gitignore
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing and coverage artifacts
+.pytest_cache/
+.hypothesis/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment files and credentials
+.env
+.env.*
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Non-runtime documentation assets
+*.pdf
+notebooks/
+docs/
+tests/

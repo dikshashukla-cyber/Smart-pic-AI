@@ -1,0 +1,24 @@
+# SmartPick AI — Pinned Production Dependencies
+# Python Runtime: 3.11.9
+
+# Core Data Manipulation & Math
+pandas==3.0.6
+numpy==2.4.6
+scipy==1.17.1
+
+# Machine Learning & Similarity
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# User Interface & Interactive Visualizations
+streamlit==1.66.0
+plotly==7.1.0
+
+# Schema Validation & Typing
+pydantic==2.14.1
+
+# Testing, Coverage & Code Quality
+pytest==9.1.1
+pytest-cov==7.1.0
+hypothesis==6.169.3
+ruff==0.17.0

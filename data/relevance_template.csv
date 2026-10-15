@@ -1,0 +1,15 @@
+profile_id,phone_name,relevance_grade,reviewer,rationale
+# SmartPick AI Human-Reviewable Ground-Truth Relevance Judgement Template
+# Instructions:
+# 1. profile_id: Identifier of the query persona (e.g. gamer_heavy, creator_pro, budget_student)
+# 2. phone_name: Exact canonical smartphone name as listed in data/phones.csv
+# 3. relevance_grade: Integer score from 0 to 3:
+#    - 3: Perfect / Highly Relevant (Exemplary fit for persona priorities and constraints)
+#    - 2: Relevant (Satisfies constraints and key priorities with minor trade-offs)
+#    - 1: Marginally Relevant (Within budget, but subpar on primary priority dimensions)
+#    - 0: Irrelevant (Fails core persona requirements or poor value proposition)
+# 4. reviewer: Name or ID of the human expert judge
+# 5. rationale: Grounded justification based strictly on verifiable hardware specifications
+#
+# Example entry:
+# gamer_midrange,Poco X6 Pro 5G,3,Senior Evaluator,Dimensity 8300 Ultra delivers 1.4M AnTuTu score and 120Hz OLED under 28k

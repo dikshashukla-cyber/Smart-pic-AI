@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+SmartPick AI  Companion Document v1.0
+Page 1
+ SMARTPICK AI
+ Presentation & Demo Guide
+ Seven-slide structure, demo script, and viva preparation
+Prepared for: Pratyush Mishra
+Version 1.0  15 October 2026
+Status: Working companion document
+
+
+--- PAGE 2 ---
+SmartPick AI  Companion Document v1.0
+Page 2
+1. Suggested slides
+    Slide 1 — Title: SmartPick AI, author, institution, guide.
+    Slide 2 — Problem statement and target users.
+    Slide 3 — Dataset source, features, and data-cleaning steps.
+    Slide 4 — Architecture and recommendation method.
+    Slide 5 — Live demo: select budget/preferences, show Top 5 and comparison.
+    Slide 6 — Evaluation, test results, and limitations.
+    Slide 7 — Conclusion and future work.
+ 
+2. Demo script
+    Start with a clear user profile: budget, main use, and two priorities.
+    Generate recommendations and explain why the top result ranks highly.
+    Change one preference and show how ranking changes.
+    Use comparison view to compare two eligible phones.
+    Finish by explaining one limitation and one future improvement.
+ 
+3. Viva prompts
+    What is a recommender system?
+    How is content-based filtering different from collaborative filtering?
+    Why are features scaled?
+    What does cosine similarity measure?
+    Why is budget a hard constraint?
+    What data is needed to evaluate Precision@K or NDCG@K?
+    Why is a weighted score not necessarily a trained ML model?
+    What are the main limitations of the dataset?
+ 
+4. Honest reporting
+    Show only metrics actually computed from the documented test set.
+    Separate implemented features from planned features.
+    Do not claim live prices, real users, or validated accuracy without evidence.
+ 

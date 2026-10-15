@@ -1,0 +1,126 @@
+Phone Name,Brand,Price,RAM,Storage,Battery,Camera,Refresh Rate,5G Support,Benchmark,Source,Date
+Redmi 13C 5G,Xiaomi,"₹10,499",4 GB,128 GB,5000 mAh,50 MP AI,90 Hz,Yes,"420,000",Synthetic Catalog,2026-10-15
+Redmi 13C 5G,Xiaomi,"₹11,999",6 GB,128 GB,5000 mAh,50 MP AI,90 Hz,Yes,"420,000",Synthetic Catalog,2026-10-15
+POCO M6 Pro 5G,POCO,"Rs. 10,999.00",4GB RAM,128GB ROM,5000mAh,50 MP + 2 MP,90Hz,5G,"435,000",Synthetic Catalog,2026-10-15
+POCO M6 Pro 5G (8GB/256GB),POCO,"₹13,499",8 GB (6+2 Virtual),256 GB,5000 mAh,50 MP,90 Hz,True,"435,000",Synthetic Catalog,2026-10-15
+Realme C67 5G,Realme,13999,6 GB,128 GB,5000 mAh,50 MP,120 Hz,Yes,"410,000",Synthetic Catalog,2026-10-15
+Realme 12x 5G,Realme,"₹11,999",4 GB,128 GB,5000 mAh,50 MP,120 Hz,Yes,"415,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy M14 5G,Samsung,"₹12,490",6 GB,128 GB,6000 mAh Li-Po,50 MP + 2 MP + 2 MP,90 Hz,1,"412,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy F14 5G,Samsung,"₹11,490",4 GB,128 GB,"6,000mAh",50 MP,90 Hz,Yes,"408,000",Synthetic Catalog,2026-10-15
+Moto G34 5G,Motorola,"₹10,999",8 GB,128 GB,5000 mAh,50 MP Quad Pixel,120 Hz,Yes,"430,000",Synthetic Catalog,2026-10-15
+Moto G24 Power,Motorola,"₹8,999",4 GB,128 GB,6000 mAh,50 MP,90 Hz,No,"270,000",Synthetic Catalog,2026-10-15
+Infinix Hot 40i,Infinix,"₹8,999",8 GB,256 GB,5000 mAh,50 MP,90 Hz,No,"260,000",Synthetic Catalog,2026-10-15
+Infinix Smart 8 HD,Infinix,"₹6,499",3 GB,64 GB,5000 mAh,13 MP,90 Hz,No,"180,000",Synthetic Catalog,2026-10-15
+Tecno Spark 20,Tecno,"₹10,499",8 GB,128 GB,5000 mAh,50 MP,90 Hz,No,"275,000",Synthetic Catalog,2026-10-15
+Tecno Pova 6 Pro 5G,Tecno,"₹17,999",8 GB,256 GB,6000 mAh,108 MP,120 Hz,Yes,"440,000",Synthetic Catalog,2026-10-15
+iQOO Z9x 5G,iQOO,"₹12,999",6 GB,128 GB,6000 mAh,50 MP,120 Hz,Yes,"560,000",Synthetic Catalog,2026-10-15
+Vivo T3x 5G,Vivo,"₹13,499",6 GB,128 GB,6000 mAh,50 MP,120 Hz,Yes,"560,000",Synthetic Catalog,2026-10-15
+iQOO Z9 5G,iQOO,"₹19,999",8 GB,128 GB,5000 mAh,50 MP Sony IMX882 OIS,120 Hz,Yes,"730,000",Synthetic Catalog,2026-10-15
+Vivo T3 5G,Vivo,"₹19,999",8 GB,256 GB,5000 mAh,50 MP Sony OIS,120 Hz,Yes,"730,000",Synthetic Catalog,2026-10-15
+OnePlus Nord CE4 Lite 5G,OnePlus,"₹19,999",8 GB,128 GB,5500 mAh,50 MP OIS,120 Hz,Yes,"460,000",Synthetic Catalog,2026-10-15
+OnePlus Nord CE4 5G,OnePlus,"₹24,999",8 GB,128 GB,5500 mAh,50 MP Sony LYT-600 OIS,120 Hz,Yes,"810,000",Synthetic Catalog,2026-10-15
+OnePlus Nord CE4 5G (8GB/256GB),OnePlus,"₹26,999",8 GB,256 GB,5500 mAh,50 MP Sony LYT-600 OIS,120 Hz,Yes,"810,000",Synthetic Catalog,2026-10-15
+Nothing Phone (2a),,"₹23,999",8 GB,128 GB,5000 mAh,50 MP + 50 MP Ultra-wide,120 Hz,Yes,"715,000",Synthetic Catalog,2026-10-15
+Nothing Phone (2a) Plus,Nothing,"₹27,999",8 GB,256 GB,5000 mAh,50 MP + 50 MP,120 Hz,Yes,"790,000",Synthetic Catalog,2026-10-15
+Realme 12 Pro 5G,Realme,"₹23,999",8 GB,128 GB,5000 mAh,50 MP + 32 MP Telephoto,120 Hz,Yes,"590,000",Synthetic Catalog,2026-10-15
+Realme 12 Pro+ 5G,Realme,"₹29,999",8 GB,256 GB,5000 mAh,64 MP Periscope + 50 MP,120 Hz,Yes,"660,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy M34 5G,Samsung,"₹16,999",6 GB,128 GB,6000 mAh,50 MP OIS,120 Hz,Yes,"480,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy M34 5G,Samsung,"₹16,999",6 GB,128 GB,6000 mAh,50 MP OIS,120 Hz,Yes,"480,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy M35 5G,Samsung,"₹18,999",6 GB,128 GB,6000 mAh,50 MP OIS,120 Hz,Yes,"590,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy A25 5G,Samsung,"₹23,999",8 GB,128 GB,5000 mAh,50 MP OIS,120 Hz,Yes,"480,000",Synthetic Catalog,2026-10-15
+Moto G84 5G,Motorola,"₹17,999",12 GB,256 GB,5000 mAh,50 MP OIS,120 Hz,Yes,"420,000",Synthetic Catalog,2026-10-15
+Motorola Edge 50 Fusion,Motorola,"₹22,999",8 GB,128 GB,5000 mAh,50 MP Sony LYTIA 700C,144 Hz,Yes,"575,000",Synthetic Catalog,2026-10-15
+Motorola Edge 50 Fusion (12GB/256GB),Motorola,"₹24,999",12 GB,256 GB,5000 mAh,50 MP Sony LYTIA 700C,144 Hz,Yes,"575,000",Synthetic Catalog,2026-10-15
+Redmi Note 13 Pro 5G,Xiaomi,"₹24,999",8 GB,128 GB,5100 mAh,200 MP OIS,120 Hz,Yes,"610,000",Synthetic Catalog,2026-10-15
+POCO X6 5G,POCO,"₹19,999",8 GB,256 GB,5100 mAh,64 MP OIS,120 Hz,Yes,"610,000",Synthetic Catalog,2026-10-15
+POCO X6 Pro 5G,POCO,"₹25,999",8 GB,256 GB,5000 mAh,64 MP OIS,120 Hz,Yes,"1,400,000",Synthetic Catalog,2026-10-15
+OnePlus 12R,OnePlus,"₹39,999",8 GB,128 GB,5500 mAh,50 MP Sony IMX890,120 Hz,Yes,"1,550,000",Synthetic Catalog,2026-10-15
+OnePlus 12R (16GB/256GB),OnePlus,"₹45,999",16 GB,256 GB,5500 mAh,50 MP Sony IMX890,120 Hz,Yes,"1,550,000",Synthetic Catalog,2026-10-15
+iQOO Neo9 Pro 5G,iQOO,"₹34,999",8 GB,128 GB,5160 mAh,50 MP Sony IMX920,144 Hz,Yes,"1,600,000",Synthetic Catalog,2026-10-15
+iQOO Neo9 Pro 5G (12GB/256GB),iQOO,"₹38,999",12 GB,256 GB,5160 mAh,50 MP Sony IMX920,144 Hz,Yes,"1,600,000",Synthetic Catalog,2026-10-15
+Realme GT 6T,Realme,"₹30,999",8 GB,128 GB,5500 mAh,50 MP Sony LYT-600,120 Hz,Yes,"1,500,000",Synthetic Catalog,2026-10-15
+Realme GT 6,Realme,"₹40,999",8 GB,256 GB,5500 mAh,50 MP Sony LYT-808,120 Hz,Yes,"1,650,000",Synthetic Catalog,2026-10-15
+Motorola Edge 50 Pro,Motorola,"₹31,999",8 GB,256 GB,4500 mAh,50 MP AI Pantone,144 Hz,Yes,"860,000",Synthetic Catalog,2026-10-15
+Motorola Edge 50 Ultra,Motorola,"₹49,999",12 GB,512 GB,4500 mAh,50 MP + 64 MP Periscope,144 Hz,Yes,"1,580,000",Synthetic Catalog,2026-10-15
+Google Pixel 8a,Google,"₹49,999",8 GB,128 GB,4492 mAh,64 MP + 13 MP,120 Hz,Yes,"1,150,000",Synthetic Catalog,2026-10-15
+Google Pixel 7a,Google,"₹36,999",8 GB,128 GB,4385 mAh,64 MP Dual Pixel,90 Hz,Yes,"820,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy S23 FE 5G,Samsung,"₹39,999",8 GB,128 GB,4500 mAh,50 MP + 12 MP + 8 MP,120 Hz,Yes,"1,180,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy A55 5G,Samsung,"₹39,999",8 GB,128 GB,5000 mAh,50 MP OIS,120 Hz,Yes,"720,000",Synthetic Catalog,2026-10-15
+Vivo V30 Pro 5G,Vivo,"₹41,999",8 GB,256 GB,5000 mAh,50 MP Zeiss Triple,120 Hz,Yes,"920,000",Synthetic Catalog,2026-10-15
+POCO F6 5G,POCO,"₹29,999",8 GB,256 GB,5000 mAh,50 MP Sony OIS,120 Hz,Yes,"1,520,000",Synthetic Catalog,2026-10-15
+Xiaomi 14 Civi,Xiaomi,"₹42,999",8 GB,256 GB,4700 mAh,50 MP Leica Summilux,120 Hz,Yes,"1,500,000",Synthetic Catalog,2026-10-15
+OnePlus 12,OnePlus,"₹64,999",12 GB,256 GB,5400 mAh,50 MP Hasselblad 4th Gen,120 Hz,Yes,"2,110,000",Synthetic Catalog,2026-10-15
+OnePlus 12 (16GB/512GB),OnePlus,"₹69,999",16 GB,512 GB,5400 mAh,50 MP Hasselblad 4th Gen,120 Hz,Yes,"2,110,000",Synthetic Catalog,2026-10-15
+iQOO 12 5G,iQOO,"₹52,999",12 GB,256 GB,5000 mAh,50 MP + 50 MP + 64 MP,144 Hz,Yes,"2,130,000",Synthetic Catalog,2026-10-15
+Vivo X100 5G,Vivo,"₹63,999",12 GB,256 GB,5000 mAh,50 MP Zeiss 1-inch,120 Hz,Yes,"2,200,000",Synthetic Catalog,2026-10-15
+Vivo X100 Pro 5G,Vivo,"₹89,999",16 GB,512 GB,5400 mAh,50 MP Zeiss APO Floating,120 Hz,Yes,"2,200,000",Synthetic Catalog,2026-10-15
+Xiaomi 14,Xiaomi,"₹69,999",12 GB,512 GB,4610 mAh,50 MP Leica 75mm,120 Hz,Yes,"2,050,000",Synthetic Catalog,2026-10-15
+Xiaomi 14 Ultra,Xiaomi,"₹99,999",16 GB,512 GB,5000 mAh,50 MP Quad Leica 1-inch,120 Hz,Yes,"2,080,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy S24 5G,Samsung,"₹74,999",8 GB,128 GB,4000 mAh,50 MP Dual Pixel,120 Hz,Yes,"1,850,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy S24+ 5G,Samsung,"₹94,999",12 GB,256 GB,4900 mAh,50 MP Dual Pixel,120 Hz,Yes,"1,880,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy S24 Ultra 5G,Samsung,"₹1,29,999",12 GB,256 GB,5000 mAh,200 MP Quad Tele OIS,120 Hz,Yes,"2,150,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy S24 Ultra 5G (512GB),Samsung,"₹1,39,999",12 GB,512 GB,5000 mAh,200 MP Quad Tele OIS,120 Hz,Yes,"2,150,000",Synthetic Catalog,2026-10-15
+Google Pixel 8,Google,"₹75,999",8 GB,128 GB,4575 mAh,50 MP Octa PD,120 Hz,Yes,"1,180,000",Synthetic Catalog,2026-10-15
+Google Pixel 8 Pro,Google,"₹1,06,999",12 GB,128 GB,5050 mAh,50 MP + 48 MP + 48 MP,120 Hz,Yes,"1,200,000",Synthetic Catalog,2026-10-15
+Google Pixel 9 Pro,Google,"₹1,09,999",16 GB,256 GB,4700 mAh,50 MP Triple Pro,120 Hz,Yes,"1,350,000",Synthetic Catalog,2026-10-15
+Apple iPhone 15,Apple,"₹70,999",6 GB,128 GB,3349 mAh,48 MP Main,60 Hz,Yes,"1,450,000",Synthetic Catalog,2026-10-15
+Apple iPhone 15 Plus,Apple,"₹80,999",6 GB,128 GB,4383 mAh,48 MP Main,60 Hz,Yes,"1,450,000",Synthetic Catalog,2026-10-15
+Apple iPhone 15 Pro,Apple,"₹1,27,990",8 GB,128 GB,3274 mAh,48 MP Pro 3x,120 Hz,Yes,"1,620,000",Synthetic Catalog,2026-10-15
+Apple iPhone 15 Pro Max,Apple,"₹1,48,900",8 GB,256 GB,4422 mAh,48 MP Pro 5x Tetraprism,120 Hz,Yes,"1,640,000",Synthetic Catalog,2026-10-15
+Apple iPhone 15 Pro Max 1TB,Apple,"₹1,99,900",8 GB,1 TB,4422 mAh,48 MP Pro 5x Tetraprism,120 Hz,Yes,"1,640,000",Synthetic Catalog,2026-10-15
+Apple iPhone 16,Apple,"₹79,900",8 GB,128 GB,3561 mAh,48 MP Fusion,60 Hz,Yes,"1,750,000",Synthetic Catalog,2026-10-15
+Apple iPhone 16 Pro Max,Apple,"₹1,44,900",8 GB,256 GB,4685 mAh,48 MP Fusion 5x,120 Hz,Yes,"1,920,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy Z Flip6 5G,Samsung,"₹1,09,999",12 GB,256 GB,4000 mAh,50 MP Dual,120 Hz,Yes,"1,850,000",Synthetic Catalog,2026-10-15
+Samsung Galaxy Z Fold6 5G,Samsung,"₹1,64,999",12 GB,256 GB,4400 mAh,50 MP Triple,120 Hz,Yes,"1,870,000",Synthetic Catalog,2026-10-15
+Redmi 13C 5G,Xiaomi,"₹10,499",4 GB,128 GB,5000 mAh,50 MP AI,90 Hz,Yes,"420,000",Synthetic Catalog,2026-10-15
+Fairphone Prototype 5,Fairphone,"₹45,000",8 GB,256 GB,,50 MP,90 Hz,Yes,,Synthetic Catalog,2026-10-15
+Minimalist Phone E-Ink,Minimal,"₹28,500",4 GB,64 GB,2500 mAh,,,No,"200,000",Synthetic Catalog,2026-10-15
+Mystery Phone X,Unknown,FREE_PROMOTIONAL_UNIT,8 GB,128 GB,4500 mAh,48 MP,60 Hz,Yes,"400,000",Synthetic Catalog,2026-10-15
+Glitch Phone Beta,Glitch,"-₹15,000",8 GB,128 GB,5000 mAh,50 MP,120 Hz,Yes,"500,000",Synthetic Catalog,2026-10-15
+Nuclear Phone Atomic,Atomic,"₹89,999",16 GB,512 GB,999999 mAh,108 MP,144 Hz,Yes,"1,500,000",Synthetic Catalog,2026-10-15
+,Generic,"₹9,999",4 GB,64 GB,4000 mAh,13 MP,60 Hz,No,"150,000",Synthetic Catalog,2026-10-15
+Samsung Alpha 80 5G,Samsung,"₹45,000",4 GB,64 GB,4000 mAh,50 MP OIS,60 Hz,Yes,"1,292,500",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 81 5G,Xiaomi,"₹46,350",6 GB,128 GB,4500 mAh,64 MP OIS,90 Hz,Yes,"1,319,475",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 82 5G,OnePlus,"₹47,700",8 GB,256 GB,5000 mAh,108 MP OIS,120 Hz,Yes,"1,346,450",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 83 5G,Realme,"₹49,050",12 GB,512 GB,5500 mAh,200 MP OIS,144 Hz,Yes,"1,373,425",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 84 5G,Vivo,"₹50,400",16 GB,64 GB,6000 mAh,13 MP OIS,60 Hz,Yes,"1,400,400",Synthetic Benchmark Catalog (v1.0),2026-10-15
+iQOO Alpha 85 5G,iQOO,"₹51,750",4 GB,128 GB,4000 mAh,48 MP OIS,90 Hz,Yes,"1,427,375",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Motorola Alpha 86 5G,Motorola,"₹53,100",6 GB,256 GB,4500 mAh,50 MP OIS,120 Hz,Yes,"1,454,350",Synthetic Benchmark Catalog (v1.0),2026-10-15
+POCO Alpha 87 5G,POCO,"₹54,450",8 GB,512 GB,5000 mAh,64 MP OIS,144 Hz,Yes,"1,481,325",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Samsung Alpha 88 5G,Samsung,"₹55,800",12 GB,64 GB,5500 mAh,108 MP OIS,60 Hz,Yes,"1,508,300",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 89 5G,Xiaomi,"₹57,150",16 GB,128 GB,6000 mAh,200 MP OIS,90 Hz,Yes,"1,535,275",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 90 5G,OnePlus,"₹58,500",4 GB,256 GB,4000 mAh,13 MP OIS,120 Hz,Yes,"1,562,250",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 91 5G,Realme,"₹59,850",6 GB,512 GB,4500 mAh,48 MP OIS,144 Hz,Yes,"1,589,225",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 92 5G,Vivo,"₹61,200",8 GB,64 GB,5000 mAh,50 MP OIS,60 Hz,Yes,"1,616,200",Synthetic Benchmark Catalog (v1.0),2026-10-15
+iQOO Alpha 93 5G,iQOO,"₹62,550",12 GB,128 GB,5500 mAh,64 MP OIS,90 Hz,Yes,"1,643,175",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Motorola Alpha 94 5G,Motorola,"₹63,900",16 GB,256 GB,6000 mAh,108 MP OIS,120 Hz,Yes,"1,670,150",Synthetic Benchmark Catalog (v1.0),2026-10-15
+POCO Alpha 95 5G,POCO,"₹65,250",4 GB,512 GB,4000 mAh,200 MP OIS,144 Hz,Yes,"1,697,125",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Samsung Alpha 96 5G,Samsung,"₹66,600",6 GB,64 GB,4500 mAh,13 MP OIS,60 Hz,Yes,"1,724,100",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 97 5G,Xiaomi,"₹67,950",8 GB,128 GB,5000 mAh,48 MP OIS,90 Hz,Yes,"1,751,075",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 98 5G,OnePlus,"₹69,300",12 GB,256 GB,5500 mAh,50 MP OIS,120 Hz,Yes,"1,778,050",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 99 5G,Realme,"₹70,650",16 GB,512 GB,6000 mAh,64 MP OIS,144 Hz,Yes,"1,805,025",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 100 5G,Vivo,"₹72,000",4 GB,64 GB,4000 mAh,108 MP OIS,60 Hz,Yes,"1,832,000",Synthetic Benchmark Catalog (v1.0),2026-10-15
+iQOO Alpha 101 5G,iQOO,"₹73,350",6 GB,128 GB,4500 mAh,200 MP OIS,90 Hz,Yes,"1,858,975",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Motorola Alpha 102 5G,Motorola,"₹74,700",8 GB,256 GB,5000 mAh,13 MP OIS,120 Hz,Yes,"1,885,950",Synthetic Benchmark Catalog (v1.0),2026-10-15
+POCO Alpha 103 5G,POCO,"₹76,050",12 GB,512 GB,5500 mAh,48 MP OIS,144 Hz,Yes,"1,912,925",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Samsung Alpha 104 5G,Samsung,"₹77,400",16 GB,64 GB,6000 mAh,50 MP OIS,60 Hz,Yes,"1,939,900",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 105 5G,Xiaomi,"₹78,750",4 GB,128 GB,4000 mAh,64 MP OIS,90 Hz,Yes,"1,966,875",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 106 5G,OnePlus,"₹80,100",6 GB,256 GB,4500 mAh,108 MP OIS,120 Hz,Yes,"1,993,850",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 107 5G,Realme,"₹81,450",8 GB,512 GB,5000 mAh,200 MP OIS,144 Hz,Yes,"2,020,825",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 108 5G,Vivo,"₹82,800",12 GB,64 GB,5500 mAh,13 MP OIS,60 Hz,Yes,"2,047,800",Synthetic Benchmark Catalog (v1.0),2026-10-15
+iQOO Alpha 109 5G,iQOO,"₹84,150",16 GB,128 GB,6000 mAh,48 MP OIS,90 Hz,Yes,"2,074,775",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Motorola Alpha 110 5G,Motorola,"₹85,500",4 GB,256 GB,4000 mAh,50 MP OIS,120 Hz,Yes,"2,101,750",Synthetic Benchmark Catalog (v1.0),2026-10-15
+POCO Alpha 111 5G,POCO,"₹86,850",6 GB,512 GB,4500 mAh,64 MP OIS,144 Hz,Yes,"2,128,725",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Samsung Alpha 112 5G,Samsung,"₹13,200",8 GB,64 GB,5000 mAh,108 MP OIS,60 Hz,Yes,"768,200",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 113 5G,Xiaomi,"₹14,550",12 GB,128 GB,5500 mAh,200 MP OIS,90 Hz,Yes,"795,175",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 114 5G,OnePlus,"₹15,900",16 GB,256 GB,6000 mAh,13 MP OIS,120 Hz,Yes,"822,150",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 115 5G,Realme,"₹17,250",4 GB,512 GB,4000 mAh,48 MP OIS,144 Hz,Yes,"849,125",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 116 5G,Vivo,"₹18,600",6 GB,64 GB,4500 mAh,50 MP OIS,60 Hz,Yes,"876,100",Synthetic Benchmark Catalog (v1.0),2026-10-15
+iQOO Alpha 117 5G,iQOO,"₹19,950",8 GB,128 GB,5000 mAh,64 MP OIS,90 Hz,Yes,"903,075",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Motorola Alpha 118 5G,Motorola,"₹21,300",12 GB,256 GB,5500 mAh,108 MP OIS,120 Hz,Yes,"930,050",Synthetic Benchmark Catalog (v1.0),2026-10-15
+POCO Alpha 119 5G,POCO,"₹22,650",16 GB,512 GB,6000 mAh,200 MP OIS,144 Hz,Yes,"957,025",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Samsung Alpha 120 5G,Samsung,"₹24,000",4 GB,64 GB,4000 mAh,13 MP OIS,60 Hz,Yes,"984,000",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Xiaomi Alpha 121 5G,Xiaomi,"₹25,350",6 GB,128 GB,4500 mAh,48 MP OIS,90 Hz,Yes,"1,010,975",Synthetic Benchmark Catalog (v1.0),2026-10-15
+OnePlus Alpha 122 5G,OnePlus,"₹26,700",8 GB,256 GB,5000 mAh,50 MP OIS,120 Hz,Yes,"1,037,950",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Realme Alpha 123 5G,Realme,"₹28,050",12 GB,512 GB,5500 mAh,64 MP OIS,144 Hz,Yes,"1,064,925",Synthetic Benchmark Catalog (v1.0),2026-10-15
+Vivo Alpha 124 5G,Vivo,"₹29,400",16 GB,64 GB,6000 mAh,108 MP OIS,60 Hz,Yes,"1,091,900",Synthetic Benchmark Catalog (v1.0),2026-10-15

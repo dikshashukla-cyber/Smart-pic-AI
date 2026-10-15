@@ -1,0 +1,48 @@
+--- PAGE 1 ---
+SmartPick AI  Companion Document v1.0
+Page 1
+ SMARTPICK AI
+ Dataset & Data Dictionary
+ Schema, validation rules, provenance, and responsible data handling
+Prepared for: Pratyush Mishra
+Version 1.0  15 October 2026
+Status: Working companion document
+
+
+--- PAGE 2 ---
+SmartPick AI  Companion Document v1.0
+Page 2
+1. Purpose
+    Use this document alongside the actual phones.csv. It describes the expected schema; it does not claim a real dataset has
+ already been sourced.
+2. Suggested columns
+    phone_name — required string; non-empty model label.
+    brand — optional category; normalize whitespace and casing.
+    price_inr — required positive numeric price in Indian rupees; record source and verification date.
+    ram_gb — optional positive numeric RAM in GB.
+    storage_gb — optional positive numeric storage in GB.
+    battery_mah — optional positive numeric capacity in mAh.
+    camera_mp — optional numeric megapixel value; not a complete measure of camera quality.
+    display_hz — optional positive numeric refresh rate in Hz.
+    has_5g — optional boolean/0-1 field with normalized values.
+    processor_score — optional numeric value only when benchmark source and scale are documented.
+    source — optional source name or URL.
+    verified_at — optional date last verified.
+ 
+3. Data quality rules
+    Document source, licence, attribution, retrieval date, and last verification date.
+    Do not turn unknown/missing values into zero.
+    Standardize units and data types.
+    Inspect duplicate models and variants before deduplication.
+    Flag implausible values for review rather than silently correcting them.
+    Keep a record of transformations and missing-value handling.
+ 
+4. Provenance template
+    Dataset name: [fill in]
+    Source URL/name: [fill in]
+    Licence/usage terms: [fill in]
+    Retrieved on: [fill in]
+    Last verified: [fill in]
+    Fields with missing values: [fill in]
+    Redistribution allowed: [yes/no/unclear — verify before publishing]
+ 

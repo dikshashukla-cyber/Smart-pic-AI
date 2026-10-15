@@ -1,0 +1,30 @@
+--- PAGE 1 ---
+SmartPick AI  Companion Document v1.0
+Page 1
+ SMARTPICK AI
+ Project Checklist
+ Track implementation from dataset setup to final submission
+Prepared for: Pratyush Mishra
+Version 1.0  15 October 2026
+Status: Working companion document
+
+
+--- PAGE 2 ---
+SmartPick AI  Companion Document v1.0
+Page 2
+Milestones
+    [ ] Confirm dataset source and licence.
+    [ ] Create and validate phones.csv.
+    [ ] Implement data loader and schema validation.
+    [ ] Implement budget filter and weighted baseline.
+    [ ] Add tests for constraints and edge cases.
+    [ ] Build Streamlit interface.
+    [ ] Add content-based similarity.
+    [ ] Compare baseline and advanced ranking.
+    [ ] Evaluate only with suitable relevance labels.
+    [ ] Complete README and requirements.txt.
+    [ ] Capture real app screenshots.
+    [ ] Deploy if feasible and verify the link.
+    [ ] Prepare presentation and rehearse demo.
+    [ ] Update documents to reflect what is actually implemented.
+ 
