@@ -1,11 +1,15 @@
 # SmartPick AI — Intelligent Mobile Recommender
 
-[![CI Test Suite](https://img.shields.io/badge/pytest-158%20passed-emerald?style=flat-square&logo=pytest)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/tests/)
-[![Test Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen?style=flat-square)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/tests/)
-[![Python Version](https://img.shields.io/badge/python-3.11-blue?style=flat-square&logo=python)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/Dockerfile)
-[![UI Framework](https://img.shields.io/badge/UI-Streamlit%201.66-red?style=flat-square&logo=streamlit)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/app.py)
-[![Design System](https://img.shields.io/badge/Accessibility-WCAG%20AA-purple?style=flat-square)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/docs/DESIGN_SYSTEM.md)
-[![Budget Guarantee](https://img.shields.io/badge/Budget%20Compliance-100.0%25-teal?style=flat-square)](file:///c:/Users/HP/OneDrive/Desktop/SmartPick-AI/docs/EVALUATION.md)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-pic-ai-wxwhbucuqz9jcv2sxfwfah.streamlit.app/)
+
+> 🚀 **Live Demo**: Experience SmartPick AI live in your browser: **[https://smart-pic-ai-wxwhbucuqz9jcv2sxfwfah.streamlit.app/](https://smart-pic-ai-wxwhbucuqz9jcv2sxfwfah.streamlit.app/)**
+
+[![CI Test Suite](https://img.shields.io/badge/pytest-172%20passed-emerald?style=flat-square&logo=pytest)](tests/)
+[![Test Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen?style=flat-square)](tests/)
+[![Python Version](https://img.shields.io/badge/python-3.11-blue?style=flat-square&logo=python)](Dockerfile)
+[![UI Framework](https://img.shields.io/badge/UI-Streamlit%201.66-red?style=flat-square&logo=streamlit)](app.py)
+[![Design System](https://img.shields.io/badge/Accessibility-WCAG%20AA-purple?style=flat-square)](docs/DESIGN_SYSTEM.md)
+[![Budget Guarantee](https://img.shields.io/badge/Budget%20Compliance-100.0%25-teal?style=flat-square)](docs/EVALUATION.md)
 
 SmartPick AI is an offline, multi-criteria smartphone recommendation engine engineered with mathematical transparency, fintech-grade interface polish, and zero "ML-washing." 
 
