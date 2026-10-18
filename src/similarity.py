@@ -278,40 +278,37 @@ class ContentSimilarityEngine:
             for n in valid_candidates
         }
 
+        # Pre‑compute feature vectors and similarity matrix for all valid candidates
+        candidate_indices = [self.name_to_idx[name] for name in valid_candidates]
+        candidate_vectors = self.feature_matrix[candidate_indices]
+        sim_matrix = cosine_similarity(candidate_vectors)
+        # Mapping from candidate name to its position in candidate_vectors
+        name_to_pos = {name: pos for pos, name in enumerate(valid_candidates)}
+
         selected: list[str] = []
         remaining = list(valid_candidates)
 
-        # 1. First pick is strictly the highest relevance device
+        # 1. First pick is the highest relevance device
         first_pick = max(remaining, key=lambda n: rel_norm[n])
         selected.append(first_pick)
         remaining.remove(first_pick)
 
-        # 2. Iteratively pick devices maximizing marginal relevance
+        # 2. Iteratively pick devices maximizing marginal relevance using pre‑computed similarities
         while len(selected) < min(top_k, len(valid_candidates)) and remaining:
             best_mmr_score = -float("inf")
             best_candidate = remaining[0]
-
             for cand_name in remaining:
-                cand_idx = self.name_to_idx[cand_name]
-                cand_vec = self.feature_matrix[cand_idx].reshape(1, -1)
-
-                # Find maximum similarity to any already selected device
-                selected_indices = [self.name_to_idx[s] for s in selected]
-                selected_matrix = self.feature_matrix[selected_indices]
-                pairwise_sims = cosine_similarity(cand_vec, selected_matrix)[0]
-                max_sim_to_selected = float(np.max(pairwise_sims))
-
-                # MMR score formula
+                cand_pos = name_to_pos[cand_name]
+                selected_positions = [name_to_pos[s] for s in selected]
+                if selected_positions:
+                    max_sim_to_selected = float(np.max(sim_matrix[cand_pos, selected_positions]))
+                else:
+                    max_sim_to_selected = 0.0
                 rel_component = rel_norm[cand_name]
-                div_penalty = max_sim_to_selected
-                mmr_score = (
-                    lambda_val * rel_component - (1.0 - lambda_val) * div_penalty
-                )
-
+                mmr_score = lambda_val * rel_component - (1.0 - lambda_val) * max_sim_to_selected
                 if mmr_score > best_mmr_score:
                     best_mmr_score = mmr_score
                     best_candidate = cand_name
-
             selected.append(best_candidate)
             remaining.remove(best_candidate)
 
